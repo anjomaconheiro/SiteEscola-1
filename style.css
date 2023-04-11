@@ -16,3 +16,12 @@
   margin: 0 16px;
   font-size: 20px;
 }
+
+.imagem-inicio {
+  width: 25%;
+}
+
+#inicio {
+  background-image: linear-gradient(#bd6600, #ffffff);
+  color: white;
+}
